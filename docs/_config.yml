@@ -7,7 +7,7 @@ docs_file: "website.min"
 
 markdown: kramdown
 permalink: pretty
-url: https://bulma.io
+url: https://doc.cyber-legends.org
 exclude:
   [
     ".babelrc",
